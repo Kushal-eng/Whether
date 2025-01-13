@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the historical weather data
-file_path = "historical_weather_data.xlsx"
+file_path = "C://Users//kotra//OneDrive//Desktop//kushal projects//whether//historical_weather_data.xlsx"
 data = pd.read_excel(file_path)
 
 # Streamlit app
